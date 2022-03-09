@@ -3,15 +3,15 @@ Basic data collection from Github in python, using PyGithub.
 <br>
 This data consists of all users who have starred a *public* repository of [HeartBeast](https://www.github.com/uheartbeast)'s, and their repositories.
 <hr>
-### Starting Point:
-[HeartBeast](https://www.github.com/uheartbeast)
 
 #### 20 most common languages and the users that worked with them
 ![Users and languages](user_lang_graph)
 
 #### Most common language and the repositories that it was used in.
 ![Repos and languages](repo_lang_graph)
+
 <hr>
+
 #### 1. Starting point / seed user?
 [HeartBeast](https://www.github.com/uheartbeast)
 
