@@ -13,7 +13,7 @@ This data consists of all users who have starred a *public* repository of [Heart
 ![Repos and languages](repo_lang_graph)
 <hr>
 #### 1. Starting point / seed user?
-[HeartBeast](https://www.github.com/uheartbeast)2
+[HeartBeast](https://www.github.com/uheartbeast)
 
 #### 2. Top 4 languages? How many used the #1 language?
 Javascript, Python, HTML, and Java. 354 users had usd Javascript in at least one of their repositories.
